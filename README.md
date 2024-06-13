@@ -5,19 +5,20 @@ This project demonstrates basic data analysis using SQL and Power BI. The projec
 
 ## Files
 - **Data:**
-  - `data/original-excel-files/data1.xlsx`
-  - `data/original-excel-files/data2.xlsx`
+  - `data/bike_share_yr_0.csv`
+  - `data/bike_share_yr_1.csv`
+  - `data/cost_table.csv`
 - **Images:**
-  - `Images/Use Case.png` - Image illustrating the use case.
+  - `Images/Use-Case.png` - Image illustrating the use case.
   - `Images/Recommendation.png` - Image showing recommendations based on the data analysis.
-- **SQL Script:** `sql/create-combined-table.txt` - This text file contains the SQL script used to create the combined table.
+- **SQL Script:** `SQL/SQL Query.txt` - This text file contains the SQL script used to create the combined table.
 - **Power BI Dashboard:**
-  - `powerbi/dashboard.pbix` - This is the Power BI dashboard file.
-  - `powerbi/dashboard.gif` - A GIF showing the dashboard in action.
+  - `Power BI/Project Porfolio 1.pbix` - This is the Power BI dashboard file.
+  - `Power BI/Dashboard.gif` - A GIF showing the dashboard in action.
 - **Dashboard Icons:**
-  - `powerbi/dashboard.pbix` - This was used as the logo for the company, found [here](https://www.flaticon.com/free-icon/bicycle_706201?term=bike&page=1&position=7&origin=search&related_id=706201).
-  - `powerbi/dashboard.gif` - This was used as the icon representing riders, found [here](https://www.flaticon.com/free-icon/people_16000117?term=orange+user&page=1&position=1&origin=search&related_id=16000117).
-  - `powerbi/dashboard.gif` - This was used as the icon representing riders, found [here](https://www.flaticon.com/free-icon/coin_6369589?term=coin&page=1&position=22&origin=search&related_id=6369589).
+  - `Dashboard Icons/bicycle.png` - This was used as the logo for the company, found [here](https://www.flaticon.com/free-icon/bicycle_706201?term=bike&page=1&position=7&origin=search&related_id=706201).
+  - `Dashboard Icons/people.png` - This was used as the icon representing riders, found [here](https://www.flaticon.com/free-icon/people_16000117?term=orange+user&page=1&position=1&origin=search&related_id=16000117).
+  - `Dashboard Icons/coin.png` - This was used as the icon representing profit margin, found [here](https://www.flaticon.com/free-icon/coin_6369589?term=coin&page=1&position=22&origin=search&related_id=6369589).
 
 
 ## Steps to Reproduce
@@ -32,7 +33,7 @@ This project demonstrates basic data analysis using SQL and Power BI. The projec
 ## Use Case
 ### Request for Development of Toman Bike Share Dashboard
 
-![Use Case](images/use-case.png)
+![Use Case](Images/Use-Case.png)
 
 Dear Data Analyst,
 
@@ -61,7 +62,7 @@ Best regards,
 ## Visualizations
 Here’s a preview of the Power BI dashboard:
 
-![Dashboard GIF](powerbi/dashboard.gif)
+![Dashboard GIF](Power%20BI/Dashboard.gif)
 
 The gif of the man cycl9ing used for the dashboard is found here: [Cycling gif](https://i.pinimg.com/originals/9d/37/f2/9d37f28579591c547cca47239bad1f2c.gif).
 
