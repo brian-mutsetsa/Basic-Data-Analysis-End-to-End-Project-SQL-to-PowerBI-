@@ -54,7 +54,7 @@ Please provide an estimated timeline for completion and recommendation on raisin
 Best regards,
 
 ## Recommendations
-![Recommendations](images/recommendations.png)
+![Recommendations](Images/Recommendation.png)
 
 ### Conservative Increase:
 Considering the substantial increase last year, a more conservative increase might be prudent to avoid hitting a price ceiling where demand starts to drop. An increase in the range of 10-15% could test the market's response without risking a significant loss of customers.
