@@ -14,6 +14,11 @@ This project demonstrates basic data analysis using SQL and Power BI. The projec
 - **Power BI Dashboard:**
   - `powerbi/dashboard.pbix` - This is the Power BI dashboard file.
   - `powerbi/dashboard.gif` - A GIF showing the dashboard in action.
+- **Dashboard Icons:**
+  - `powerbi/dashboard.pbix` - This was used as the logo for the company, found [here](https://www.flaticon.com/free-icon/bicycle_706201?term=bike&page=1&position=7&origin=search&related_id=706201).
+  - `powerbi/dashboard.gif` - This was used as the icon representing riders, found [here](https://www.flaticon.com/free-icon/people_16000117?term=orange+user&page=1&position=1&origin=search&related_id=16000117).
+  - `powerbi/dashboard.gif` - This was used as the icon representing riders, found [here](https://www.flaticon.com/free-icon/coin_6369589?term=coin&page=1&position=22&origin=search&related_id=6369589).
+
 
 ## Steps to Reproduce
 
