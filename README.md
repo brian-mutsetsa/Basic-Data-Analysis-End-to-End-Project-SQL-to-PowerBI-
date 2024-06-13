@@ -8,8 +8,8 @@ This project demonstrates basic data analysis using SQL and Power BI. The projec
   - `data/original-excel-files/data1.xlsx`
   - `data/original-excel-files/data2.xlsx`
 - **Images:**
-  - `images/use-case.png` - Image illustrating the use case.
-  - `images/recommendations.png` - Image showing recommendations based on the data analysis.
+  - `Images/Use Case.png` - Image illustrating the use case.
+  - `Images/Recommendation.png` - Image showing recommendations based on the data analysis.
 - **SQL Script:** `sql/create-combined-table.txt` - This text file contains the SQL script used to create the combined table.
 - **Power BI Dashboard:**
   - `powerbi/dashboard.pbix` - This is the Power BI dashboard file.
