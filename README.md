@@ -53,6 +53,11 @@ Please provide an estimated timeline for completion and recommendation on raisin
 
 Best regards,
 
+## Visualizations
+Here’s a preview of the Power BI dashboard:
+
+![Dashboard GIF](powerbi/dashboard.gif)
+
 ## Recommendations
 ![Recommendations](Images/Recommendation.png)
 
@@ -73,10 +78,6 @@ Consider different pricing for casual versus registered users, as they may have 
 #### Monitor and Adjust:
 Implement the new prices but be ready to adjust based on immediate customer feedback and sales data. Monitoring closely will allow you to fine-tune your pricing strategy without committing fully to a price that might turn out to be too high.
 
-## Visualizations
-Here’s a preview of the Power BI dashboard:
-
-![Dashboard GIF](powerbi/dashboard.gif)
 
 ## Source Tutorial
 This project is based on a tutorial from [YouTube](https://www.youtube.com/watch?v=jdGJWloo-OU&t=3307s).
