@@ -58,6 +58,8 @@ Here’s a preview of the Power BI dashboard:
 
 ![Dashboard GIF](powerbi/dashboard.gif)
 
+The gif of the man cycl9ing used for the dashboard is found here: [Cycling gif](https://i.pinimg.com/originals/9d/37/f2/9d37f28579591c547cca47239bad1f2c.gif).
+
 ## Recommendations
 ![Recommendations](Images/Recommendation.png)
 
